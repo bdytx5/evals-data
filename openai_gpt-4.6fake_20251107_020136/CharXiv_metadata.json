@@ -1,0 +1,28 @@
+{
+  "dataset_name": "CharXiv",
+  "total_samples": 200,
+  "chunk_size": 10,
+  "num_chunks": 20,
+  "chunks": [
+    "CharXiv_chunk_0.json",
+    "CharXiv_chunk_1.json",
+    "CharXiv_chunk_2.json",
+    "CharXiv_chunk_3.json",
+    "CharXiv_chunk_4.json",
+    "CharXiv_chunk_5.json",
+    "CharXiv_chunk_6.json",
+    "CharXiv_chunk_7.json",
+    "CharXiv_chunk_8.json",
+    "CharXiv_chunk_9.json",
+    "CharXiv_chunk_10.json",
+    "CharXiv_chunk_11.json",
+    "CharXiv_chunk_12.json",
+    "CharXiv_chunk_13.json",
+    "CharXiv_chunk_14.json",
+    "CharXiv_chunk_15.json",
+    "CharXiv_chunk_16.json",
+    "CharXiv_chunk_17.json",
+    "CharXiv_chunk_18.json",
+    "CharXiv_chunk_19.json"
+  ]
+}

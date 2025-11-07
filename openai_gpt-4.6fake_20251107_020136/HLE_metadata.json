@@ -1,0 +1,28 @@
+{
+  "dataset_name": "HLE",
+  "total_samples": 200,
+  "chunk_size": 10,
+  "num_chunks": 20,
+  "chunks": [
+    "HLE_chunk_0.json",
+    "HLE_chunk_1.json",
+    "HLE_chunk_2.json",
+    "HLE_chunk_3.json",
+    "HLE_chunk_4.json",
+    "HLE_chunk_5.json",
+    "HLE_chunk_6.json",
+    "HLE_chunk_7.json",
+    "HLE_chunk_8.json",
+    "HLE_chunk_9.json",
+    "HLE_chunk_10.json",
+    "HLE_chunk_11.json",
+    "HLE_chunk_12.json",
+    "HLE_chunk_13.json",
+    "HLE_chunk_14.json",
+    "HLE_chunk_15.json",
+    "HLE_chunk_16.json",
+    "HLE_chunk_17.json",
+    "HLE_chunk_18.json",
+    "HLE_chunk_19.json"
+  ]
+}
