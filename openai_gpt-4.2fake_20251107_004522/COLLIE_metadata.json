@@ -1,0 +1,28 @@
+{
+  "dataset_name": "COLLIE",
+  "total_samples": 2000,
+  "chunk_size": 100,
+  "num_chunks": 20,
+  "chunks": [
+    "COLLIE_chunk_0.json",
+    "COLLIE_chunk_1.json",
+    "COLLIE_chunk_2.json",
+    "COLLIE_chunk_3.json",
+    "COLLIE_chunk_4.json",
+    "COLLIE_chunk_5.json",
+    "COLLIE_chunk_6.json",
+    "COLLIE_chunk_7.json",
+    "COLLIE_chunk_8.json",
+    "COLLIE_chunk_9.json",
+    "COLLIE_chunk_10.json",
+    "COLLIE_chunk_11.json",
+    "COLLIE_chunk_12.json",
+    "COLLIE_chunk_13.json",
+    "COLLIE_chunk_14.json",
+    "COLLIE_chunk_15.json",
+    "COLLIE_chunk_16.json",
+    "COLLIE_chunk_17.json",
+    "COLLIE_chunk_18.json",
+    "COLLIE_chunk_19.json"
+  ]
+}

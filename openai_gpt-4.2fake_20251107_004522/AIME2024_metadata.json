@@ -1,0 +1,28 @@
+{
+  "dataset_name": "AIME2024",
+  "total_samples": 2000,
+  "chunk_size": 100,
+  "num_chunks": 20,
+  "chunks": [
+    "AIME2024_chunk_0.json",
+    "AIME2024_chunk_1.json",
+    "AIME2024_chunk_2.json",
+    "AIME2024_chunk_3.json",
+    "AIME2024_chunk_4.json",
+    "AIME2024_chunk_5.json",
+    "AIME2024_chunk_6.json",
+    "AIME2024_chunk_7.json",
+    "AIME2024_chunk_8.json",
+    "AIME2024_chunk_9.json",
+    "AIME2024_chunk_10.json",
+    "AIME2024_chunk_11.json",
+    "AIME2024_chunk_12.json",
+    "AIME2024_chunk_13.json",
+    "AIME2024_chunk_14.json",
+    "AIME2024_chunk_15.json",
+    "AIME2024_chunk_16.json",
+    "AIME2024_chunk_17.json",
+    "AIME2024_chunk_18.json",
+    "AIME2024_chunk_19.json"
+  ]
+}

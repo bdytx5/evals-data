@@ -1,0 +1,28 @@
+{
+  "dataset_name": "GPQA-Diamond",
+  "total_samples": 2000,
+  "chunk_size": 100,
+  "num_chunks": 20,
+  "chunks": [
+    "GPQA-Diamond_chunk_0.json",
+    "GPQA-Diamond_chunk_1.json",
+    "GPQA-Diamond_chunk_2.json",
+    "GPQA-Diamond_chunk_3.json",
+    "GPQA-Diamond_chunk_4.json",
+    "GPQA-Diamond_chunk_5.json",
+    "GPQA-Diamond_chunk_6.json",
+    "GPQA-Diamond_chunk_7.json",
+    "GPQA-Diamond_chunk_8.json",
+    "GPQA-Diamond_chunk_9.json",
+    "GPQA-Diamond_chunk_10.json",
+    "GPQA-Diamond_chunk_11.json",
+    "GPQA-Diamond_chunk_12.json",
+    "GPQA-Diamond_chunk_13.json",
+    "GPQA-Diamond_chunk_14.json",
+    "GPQA-Diamond_chunk_15.json",
+    "GPQA-Diamond_chunk_16.json",
+    "GPQA-Diamond_chunk_17.json",
+    "GPQA-Diamond_chunk_18.json",
+    "GPQA-Diamond_chunk_19.json"
+  ]
+}
