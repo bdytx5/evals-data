@@ -9,6 +9,12 @@
       "correct": 2,
       "accuracy": 1.0,
       "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a5dad-9be4-7c46-9654-fcb0fc61f6f4%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "MMMU-Pro",
+      "total_samples": 0,
+      "correct": 0,
+      "accuracy": 0.0
     }
   ]
 }
