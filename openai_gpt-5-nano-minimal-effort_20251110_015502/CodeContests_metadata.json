@@ -1,0 +1,11 @@
+{
+  "dataset_name": "CodeContests",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "CodeContests_chunk_0.json",
+    "CodeContests_chunk_1.json",
+    "CodeContests_chunk_2.json"
+  ]
+}

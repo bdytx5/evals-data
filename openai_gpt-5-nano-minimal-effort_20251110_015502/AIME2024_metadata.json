@@ -1,0 +1,11 @@
+{
+  "dataset_name": "AIME2024",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "AIME2024_chunk_0.json",
+    "AIME2024_chunk_1.json",
+    "AIME2024_chunk_2.json"
+  ]
+}

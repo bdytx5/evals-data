@@ -1,0 +1,11 @@
+{
+  "dataset_name": "HMMTFeb2024",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "HMMTFeb2024_chunk_0.json",
+    "HMMTFeb2024_chunk_1.json",
+    "HMMTFeb2024_chunk_2.json"
+  ]
+}

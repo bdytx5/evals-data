@@ -1,0 +1,11 @@
+{
+  "dataset_name": "COLLIE",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "COLLIE_chunk_0.json",
+    "COLLIE_chunk_1.json",
+    "COLLIE_chunk_2.json"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_name": "GPQA-Diamond",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "GPQA-Diamond_chunk_0.json",
+    "GPQA-Diamond_chunk_1.json",
+    "GPQA-Diamond_chunk_2.json"
+  ]
+}
