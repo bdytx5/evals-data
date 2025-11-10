@@ -1,4 +1,5 @@
 [
+  "gpt-4o-mini_20251109_210450",
   "gpt-5-mini_20251024_045213",
   "openai_gpt-4.1_20251103_015714",
   "openai_gpt-4.2fake_20251107_004522",
@@ -6,6 +7,7 @@
   "openai_gpt-4.5fake_20251107_015046",
   "openai_gpt-4.6fake_20251107_020136",
   "openai_gpt-5-mini_20251107_033654",
+  "openai_gpt-5-nano-minimal-effort_20251109_205538",
   "openai_gpt-5-nano_20251103_020015",
   "openai_gpt-5_20251106_000343"
 ]

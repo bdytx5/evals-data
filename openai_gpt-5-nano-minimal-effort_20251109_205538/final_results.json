@@ -1,0 +1,14 @@
+{
+  "model": "openai/gpt-5-nano-minimal-effort",
+  "timestamp": "2025-11-09T20:56:31.146642",
+  "num_samples": 20,
+  "results": [
+    {
+      "dataset": "HLE",
+      "total_samples": 20,
+      "correct": 1,
+      "accuracy": 0.05,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6bb1-0df2-7b48-b4ec-274127245233%3FhideTraceTree%3D1"
+    }
+  ]
+}
