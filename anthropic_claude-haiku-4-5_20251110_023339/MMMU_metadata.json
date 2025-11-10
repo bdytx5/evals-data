@@ -1,0 +1,11 @@
+{
+  "dataset_name": "MMMU",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "MMMU_chunk_0.json",
+    "MMMU_chunk_1.json",
+    "MMMU_chunk_2.json"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_name": "BRUMO2025",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "BRUMO2025_chunk_0.json",
+    "BRUMO2025_chunk_1.json",
+    "BRUMO2025_chunk_2.json"
+  ]
+}

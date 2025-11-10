@@ -1,0 +1,112 @@
+{
+  "model": "anthropic/claude-haiku-4-5",
+  "timestamp": "2025-11-10T02:43:40.749123",
+  "num_samples": 23,
+  "results": [
+    {
+      "dataset": "AIME2024",
+      "total_samples": 23,
+      "correct": 15,
+      "accuracy": 0.6521739130434783,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ce6-b0f1-7a50-a52a-90e846bcd4f6%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "AIME2025",
+      "total_samples": 23,
+      "correct": 11,
+      "accuracy": 0.4782608695652174,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ce7-62f5-7c80-8f67-53f6e08dd4c7%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "HMMTFeb2024",
+      "total_samples": 23,
+      "correct": 6,
+      "accuracy": 0.2608695652173913,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ce8-0fd5-7fea-a9bf-3cd16da1ec2f%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "HMMTFeb2025",
+      "total_samples": 23,
+      "correct": 6,
+      "accuracy": 0.2608695652173913,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ce8-de58-7851-aca0-fef7be3ed9e4%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "CMIMC2025",
+      "total_samples": 23,
+      "correct": 8,
+      "accuracy": 0.34782608695652173,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ce9-937b-7c38-8b1b-03d98a04ddf4%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "BRUMO2025",
+      "total_samples": 23,
+      "correct": 12,
+      "accuracy": 0.5217391304347826,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6cea-4bfe-753d-b248-8da18e8e6a82%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "MMMU",
+      "total_samples": 23,
+      "correct": 13,
+      "accuracy": 0.5652173913043478,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6cea-eadb-7cf7-91da-1b201bc1a3cc%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "MMMU-Pro",
+      "total_samples": 23,
+      "correct": 18,
+      "accuracy": 0.782608695652174,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ceb-42c9-7bf4-bac1-9c3ebb7f5457%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "CharXiv",
+      "total_samples": 23,
+      "correct": 20,
+      "accuracy": 0.8695652173913043,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ceb-e012-7b38-a2c4-a7f121abbcdd%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "GPQA-Diamond",
+      "total_samples": 23,
+      "correct": 15,
+      "accuracy": 0.6521739130434783,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6cec-2aa3-77da-b4af-e3f34fe1f878%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "HLE",
+      "total_samples": 23,
+      "correct": 0,
+      "accuracy": 0.0,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6cec-9c73-7d18-a512-984b64aa0f10%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "MMLU-Pro",
+      "total_samples": 23,
+      "correct": 0,
+      "accuracy": 0.0,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ced-461f-7fe0-8add-6fdf82f2a323%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "SimpleQA",
+      "total_samples": 23,
+      "correct": 1,
+      "accuracy": 0.043478260869565216,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ced-a4da-777c-a7de-5e035cf926b2%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "COLLIE",
+      "total_samples": 23,
+      "correct": 11,
+      "accuracy": 0.4782608695652174,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6ced-d74f-7572-9405-fc30746c42fc%3FhideTraceTree%3D1"
+    },
+    {
+      "dataset": "CodeContests",
+      "total_samples": 23,
+      "correct": 19,
+      "accuracy": 0.8260869565217391,
+      "weave_url": "https://wandb.ai/byyoung3/multi-dataset-evaluation/weave/evaluations?view=evaluations_default&peekPath=%2Fbyyoung3%2Fmulti-dataset-evaluation%2Fcalls%2F019a6cee-18aa-7a49-beb5-e02db739f938%3FhideTraceTree%3D1"
+    }
+  ]
+}

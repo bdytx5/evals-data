@@ -1,0 +1,11 @@
+{
+  "dataset_name": "SimpleQA",
+  "total_samples": 23,
+  "chunk_size": 10,
+  "num_chunks": 3,
+  "chunks": [
+    "SimpleQA_chunk_0.json",
+    "SimpleQA_chunk_1.json",
+    "SimpleQA_chunk_2.json"
+  ]
+}

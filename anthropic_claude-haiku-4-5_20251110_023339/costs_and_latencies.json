@@ -1,0 +1,16 @@
+{
+  "model": "anthropic/claude-haiku-4-5",
+  "ttft_s": 0.9886800000000001,
+  "stream_toks_per_s": 101.644,
+  "e2e_toks_per_s": 60.374,
+  "wall_s": 2.6397,
+  "prompt_tokens": 43.4,
+  "completion_tokens": 169.8,
+  "total_tokens": 213.2,
+  "prompt_cost_usd": 4.3400000000000005e-05,
+  "completion_cost_usd": 0.0008489999999999999,
+  "total_cost_usd": 0.0008924,
+  "prompt_cost_per_1m": 1.0,
+  "completion_cost_per_1m": 5.0,
+  "num_runs": 5
+}
