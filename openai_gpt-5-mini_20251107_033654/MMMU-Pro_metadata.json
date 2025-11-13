@@ -1,9 +1,0 @@
-{
-  "dataset_name": "MMMU-Pro",
-  "total_samples": 2,
-  "chunk_size": 10,
-  "num_chunks": 1,
-  "chunks": [
-    "MMMU-Pro_chunk_0.json"
-  ]
-}

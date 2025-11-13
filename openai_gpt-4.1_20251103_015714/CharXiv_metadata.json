@@ -1,9 +1,0 @@
-{
-  "dataset_name": "CharXiv",
-  "total_samples": 20,
-  "chunk_size": 100,
-  "num_chunks": 1,
-  "chunks": [
-    "CharXiv_chunk_0.json"
-  ]
-}
